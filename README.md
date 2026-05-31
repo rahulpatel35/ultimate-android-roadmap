@@ -1,6 +1,6 @@
-# ultimate-android-roadmap
+# Android Developer Roadmap (Beginner → Senior → System Design)
+
 Complete Android Developer Roadmap from Beginner to Senior, including Kotlin, Coroutines, Jetpack Compose, Architecture, System Design, and Interview Preparation.
-# Ultimate Android Developer Roadmap (Beginner → Senior → System Design)
 This repository contains a complete structured roadmap for becoming a Senior Android Developer.
 
 It covers:
